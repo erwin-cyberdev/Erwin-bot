@@ -1,0 +1,183 @@
+{
+  "userCommands": {
+    "78529702158422@lid": [
+      {
+        "command": "poll",
+        "timestamp": 1761402211633
+      },
+      {
+        "command": "poll",
+        "timestamp": 1761402236015
+      }
+    ],
+    "266284415586426@lid": [
+      {
+        "command": "ping",
+        "timestamp": 1761403533115
+      },
+      {
+        "command": "setadmin",
+        "timestamp": 1761403547960
+      }
+    ],
+    "136666194940149@lid": [
+      {
+        "command": "ping",
+        "timestamp": 1761624170491
+      }
+    ],
+    "120363301932023852@g.us": [
+      {
+        "command": "setwelcome",
+        "timestamp": 1761603656412
+      }
+    ],
+    "120363404681374943@g.us": [
+      {
+        "command": "info",
+        "timestamp": 1761638609360
+      }
+    ],
+    "161220808204296@lid": [
+      {
+        "command": "kick",
+        "timestamp": 1761640969345
+      }
+    ]
+  },
+  "userWarnings": {
+    "78529702158422@lid": [
+      {
+        "reason": "Suspicious activity pattern detected",
+        "timestamp": 1761393558623
+      },
+      {
+        "reason": "Suspicious activity pattern detected",
+        "timestamp": 1761393705596
+      },
+      {
+        "reason": "Suspicious activity pattern detected",
+        "timestamp": 1761393849873
+      },
+      {
+        "reason": "Suspicious activity pattern detected",
+        "timestamp": 1761393970769
+      },
+      {
+        "reason": "Suspicious activity pattern detected",
+        "timestamp": 1761394078011
+      },
+      {
+        "reason": "Suspicious activity pattern detected",
+        "timestamp": 1761402236015
+      }
+    ]
+  },
+  "blacklist": {
+    "78529702158422@lid": {
+      "reason": "6 warnings - Spam detected",
+      "since": 1761402236015,
+      "until": 1761404036015
+    }
+  },
+  "suspiciousPatterns": {
+    "78529702158422@lid": {
+      "actions": [
+        {
+          "action": "ping",
+          "timestamp": 1761401804424
+        },
+        {
+          "action": "quote",
+          "timestamp": 1761401816152
+        },
+        {
+          "action": "spotify",
+          "timestamp": 1761401846293
+        },
+        {
+          "action": "movie",
+          "timestamp": 1761401913576
+        },
+        {
+          "action": "pokedex",
+          "timestamp": 1761402010151
+        },
+        {
+          "action": "pokedex",
+          "timestamp": 1761402033962
+        },
+        {
+          "action": "trivia",
+          "timestamp": 1761402054448
+        },
+        {
+          "action": "animequote",
+          "timestamp": 1761402072345
+        },
+        {
+          "action": "number",
+          "timestamp": 1761402129077
+        },
+        {
+          "action": "poll",
+          "timestamp": 1761402211633
+        },
+        {
+          "action": "poll",
+          "timestamp": 1761402236015
+        }
+      ],
+      "score": 0
+    },
+    "266284415586426@lid": {
+      "actions": [
+        {
+          "action": "ping",
+          "timestamp": 1761403533115
+        },
+        {
+          "action": "setadmin",
+          "timestamp": 1761403547961
+        }
+      ],
+      "score": 0
+    },
+    "136666194940149@lid": {
+      "actions": [
+        {
+          "action": "ping",
+          "timestamp": 1761624170491
+        }
+      ],
+      "score": 0
+    },
+    "120363301932023852@g.us": {
+      "actions": [
+        {
+          "action": "setwelcome",
+          "timestamp": 1761603656412
+        }
+      ],
+      "score": 0
+    },
+    "120363404681374943@g.us": {
+      "actions": [
+        {
+          "action": "info",
+          "timestamp": 1761638609360
+        }
+      ],
+      "score": 0
+    },
+    "161220808204296@lid": {
+      "actions": [
+        {
+          "action": "kick",
+          "timestamp": 1761640969346
+        }
+      ],
+      "score": 0
+    }
+  }
+}

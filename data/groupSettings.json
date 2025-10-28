@@ -1,0 +1,86 @@
+{
+  "120363422332692799@g.us": {
+    "antilink": false,
+    "antidelete": false,
+    "antibot": false,
+    "welcome": null,
+    "goodbye": null,
+    "warns": {},
+    "lockSettings": {
+      "links": false,
+      "stickers": false,
+      "media": false,
+      "bots": false
+    }
+  },
+  "120363311974403470@g.us": {
+    "antilink": false,
+    "antidelete": false,
+    "antibot": false,
+    "welcome": null,
+    "goodbye": null,
+    "warns": {},
+    "lockSettings": {
+      "links": false,
+      "stickers": false,
+      "media": false,
+      "bots": false
+    }
+  },
+  "120363424781455117@g.us": {
+    "antilink": true,
+    "antidelete": true,
+    "antibot": false,
+    "welcome": null,
+    "goodbye": null,
+    "warns": {},
+    "lockSettings": {
+      "links": false,
+      "stickers": false,
+      "media": false,
+      "bots": false
+    }
+  },
+  "120363301932023852@g.us": {
+    "antilink": false,
+    "antidelete": true,
+    "antibot": false,
+    "welcome": "bienvenue nous continuerons l'aventure",
+    "goodbye": "adieu",
+    "warns": {},
+    "lockSettings": {
+      "links": false,
+      "stickers": false,
+      "media": false,
+      "bots": false
+    }
+  },
+  "120363404681374943@g.us": {
+    "antilink": false,
+    "antidelete": false,
+    "antibot": false,
+    "welcome": "BIENVENUE dans l'aventure NOVASERV j'espère que tu seras d'une grande aide",
+    "goodbye": null,
+    "warns": {},
+    "lockSettings": {
+      "links": false,
+      "stickers": false,
+      "media": false,
+      "bots": false
+    }
+  },
+  "120363422370958763@g.us": {
+    "antilink": false,
+    "antidelete": false,
+    "antibot": false,
+    "welcome": null,
+    "goodbye": null,
+    "warns": {},
+    "lockSettings": {
+      "links": false,
+      "stickers": false,
+      "media": false,
+      "bots": false
+    }
+  }
+}

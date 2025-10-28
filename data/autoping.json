@@ -1,0 +1,5 @@
+{
+  "enabled": false,
+  "intervalMinutes": 25,
+  "targetJid": "status@broadcast"
+}
