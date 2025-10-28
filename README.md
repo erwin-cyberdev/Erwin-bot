@@ -146,5 +146,3 @@ Utilisez `.disclaimer` pour rappeler :
 - Risque de suspension de numéro en cas d’abus.
 
 ---
-
-Made with ❤️ pour la communauté WhatsApp francophone.
